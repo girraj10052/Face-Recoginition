@@ -46,6 +46,8 @@ pip install -r requirements.txt
 
 ### Add new persons to datasets
 
+**Note: First create the datasets folder inside the datasets create backup, data, and download the datasets/facefeatures files from the main resources then go ahead**
+
 1. **Create a folder with the folder name being the name of the person**
 
    ```
@@ -54,8 +56,8 @@ pip install -r requirements.txt
    ├── data
    ├── face_features
    └── new_persons
-       ├── name-person1
-       └── name-person2
+       ├── Person-name1
+       └── Person-name2
    ```
 
 2. **Add the person's photo in the folder**
@@ -66,25 +68,22 @@ pip install -r requirements.txt
    ├── data
    ├── face_features
    └── new_persons
-       ├── name-person1
+       ├── Person-name1
        │   └── image1.jpg
        │   └── image2.jpg
-       └── name-person2
+       └── Person-name2
            └── image1.jpg
            └── image2.jpg
    ```
 
-3. **Run to add new persons**
+3. **Run to detect the problems**
 
    ```shell
-   python add_persons.py
+   python detect.py
    ```
 
-4. **Run to recognize**
+**Run the Face Recognition App File any of them**
 
-   ```shell
-   python recognize.py
-   ```
 
 ## Technology
 
