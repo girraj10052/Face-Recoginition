@@ -82,7 +82,7 @@ pip install -r requirements.txt
    python detect.py
    ```
 
-**Run the Face Recognition App File any of them**
+*Finally run the Face Recognition App File any of them*
 
 
 ## Technology
