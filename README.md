@@ -44,9 +44,9 @@ pip install torch==1.9.1+cpu torchvision==0.10.1+cpu torchaudio==0.9.1 -f https:
 pip install -r requirements.txt
 ```
 
-### Add new persons to datasets
+**Note: First create the datasets folder inside the datasets create backup, data, and download the datasets/face features files from the main resources then go ahead**
 
-**Note: First create the datasets folder inside the datasets create backup, data, and download the datasets/facefeatures files from the main resources then go ahead**
+### Add new persons to datasets
 
 1. **Create a folder with the folder name being the name of the person**
 
@@ -82,7 +82,7 @@ pip install -r requirements.txt
    python detect.py
    ```
 
-*Finally run the Face Recognition App File any of them*
+**Finally, run the Face Recognition App File any of them**
 
 
 ## Technology
