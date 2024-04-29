@@ -44,7 +44,14 @@ pip install torch==1.9.1+cpu torchvision==0.10.1+cpu torchaudio==0.9.1 -f https:
 pip install -r requirements.txt
 ```
 
-**Note: First create the datasets folder inside the datasets create backup, data, and download the datasets/face features files from the main resources then go ahead**
+
+
+**Note: First create the datasets folder inside the datasets create backup, data, and download the datasets/face features files from the main resources then go ahead.**
+   
+   **Also, remember to look in the readme files inside all the listed folders to download the required file to download from link.**
+   1. **face_detection folder**
+   2. **face_recogintion/arcface folder**
+      
 
 ### Add new persons to datasets
 
