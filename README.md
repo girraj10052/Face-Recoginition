@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 **Note: First create the datasets folder in the main directory. Inside the datasets create backup, data, and download the datasets/face features files from the main resources then go ahead.**
    
-   **Also, remember to look in the readme files inside all the listed folders to download the required file to download from link.**
+   **Also, remember to look in the readme files inside all the listed folders to download the required file from the link.**
    1. **face_detection folder**
    2. **face_recogintion/arcface folder**
       
